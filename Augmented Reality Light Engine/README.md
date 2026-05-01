@@ -2,7 +2,7 @@
 
 This project involves the complete design and development of an Augmented Reality (AR) Light Engine module. It showcases expertise in high-density electronics, bridging hardware architecture with advanced PCB manufacturing techniques. 
 
-Core Architecture of the project implemented in KiKad: 
+Core Architecture of the project implemented in KiCad: 
 
 -**Powered by a DPLC2020 ASIC (ARM Cortex M3) and a DLPA2020 PMIC** to manage complex power rails.
 
