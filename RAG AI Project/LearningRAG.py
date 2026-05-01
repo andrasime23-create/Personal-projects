@@ -21,7 +21,7 @@ os.environ['HTTP_PROXY'] = 'secret'
 os.environ['HTTPS_PROXY'] = 'secret'
 
 # Get PDF document path
-pdf_path = "C:\\Users\\SIN8CLJ\\Desktop\\Work\\MFD\\BEFORE_You_Get_Your_Puppy_Dr.pdf"
+pdf_path = "C:\\Users\\Andra\\Desktop\\Work\\BEFORE_You_Get_Your_Puppy_Dr.pdf"
 
 # Download PDF
 if not os.path.exists(pdf_path):
